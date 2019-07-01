@@ -7,5 +7,8 @@ class DataTypes {
     // The following are examples of primitive data.
     char a = 'A';
     System.out.println(a);
+
+    int x = 1;
+    System.out.println(x);
   }
 }
