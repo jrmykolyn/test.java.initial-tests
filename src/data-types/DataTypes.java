@@ -12,6 +12,10 @@ class DataTypes {
     byte x = 1;
     System.out.println(x);
 
+    // The 'short' type is used to store numeric values up to 2 bytes in length.
+    short y = 256;
+    System.out.println(y);
+
     // THe 'int' type is used to store numeric values up to 4 bytes in length.
     int z = 65536;
     System.out.println(z);
