@@ -8,7 +8,7 @@ class DataTypes {
     char a = 'A';
     System.out.println(a);
 
-    // THe 'byte' type is used to store numeric values up to 1 byte in length.
+    // The 'byte' type is used to store numeric values up to 1 byte in length.
     byte x = 1;
     System.out.println(x);
 
@@ -16,7 +16,7 @@ class DataTypes {
     short y = 256;
     System.out.println(y);
 
-    // THe 'int' type is used to store numeric values up to 4 bytes in length.
+    // The 'int' type is used to store numeric values up to 4 bytes in length.
     int z = 65536;
     System.out.println(z);
   }
